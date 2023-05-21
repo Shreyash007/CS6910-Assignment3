@@ -51,7 +51,7 @@ wget
 
 ###  Code for Vanilla Seq2Seq and Attention Seq2Seq
 
-The experiments for complete problem can be found [here](https://github.com/Shreyash007/CS6910-Assignment2/blob/main/Assignment2_part-A.ipynb). I have commented which part is what for better understanding
+The experiments for complete problem can be found [here](https://github.com/Shreyash007/CS6910-Assignment3/blob/main/Assignment3.ipynb). I have commented which part is what for better understanding
 
 
 ###  Excel file containing predictions against actual transliteration
