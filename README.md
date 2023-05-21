@@ -61,7 +61,7 @@ The experiments for complete problem can be found [here](https://github.com/Shre
 
 ## Report
 
-The wandb report for this assignment can be found [here]((https://wandb.ai/shreyashgadgil007/CS6910-Assignment3/reports/CS6910-Assignment-3--Vmlldzo0NDA5OTky)).
+The wandb report for this assignment can be found [here](https://wandb.ai/shreyashgadgil007/CS6910-Assignment3/reports/CS6910-Assignment-3--Vmlldzo0NDA5OTky).
 ## Author
 [Shreyash Gadgil](https://github.com/Shreyash007)
 ED22S016
