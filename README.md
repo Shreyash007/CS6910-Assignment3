@@ -26,7 +26,7 @@ wget
   ```
 
 ## Dataset
-- We use [Aksharantar dataset](https://storage.googleapis.com/wandb_datasets/nature_12K.zip) dataset for our experiments](https://drive.google.com/file/d/1uRKU4as2NlS9i8sdLRS1e326vQRdhvfw/view).
+- We use [Aksharantar dataset](https://drive.google.com/file/d/1uRKU4as2NlS9i8sdLRS1e326vQRdhvfw/view) dataset for our experiments.
 
 # Vanilla Seq2Seq
 ### Hyperparameters used in experiments for Vanilla Seq2Seq
@@ -55,13 +55,13 @@ The experiments for complete problem can be found [here](https://github.com/Shre
 
 
 ###  Excel file containing predictions against actual transliteration
-- CSV file containing vanilla seq2seq predictions can be found [here]() 
-- CSV file containing attention seq2seq predictions can be found [here]()
+- CSV file containing vanilla seq2seq predictions can be found [here](https://github.com/Shreyash007/CS6910-Assignment3/blob/main/predictions_vanilla.csv) 
+- CSV file containing attention seq2seq predictions can be found [here](https://github.com/Shreyash007/CS6910-Assignment3/blob/main/predictions_attention.csv)
 
 
 ## Report
 
-The wandb report for this assignment can be found [here]([https://wandb.ai/shreyashgadgil007/CS6910-Assignment2/reports/CS6910-Assignment-2--VmlldzozOTAzMTc4](https://wandb.ai/shreyashgadgil007/CS6910-Assignment3/reports/CS6910-Assignment-3--Vmlldzo0NDA5OTky)).
+The wandb report for this assignment can be found [here]((https://wandb.ai/shreyashgadgil007/CS6910-Assignment3/reports/CS6910-Assignment-3--Vmlldzo0NDA5OTky)).
 ## Author
 [Shreyash Gadgil](https://github.com/Shreyash007)
 ED22S016
