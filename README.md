@@ -26,7 +26,7 @@ wget
   ```
 
 ## Dataset
-- We use [Aksharantar dataset]([https://storage.googleapis.com/wandb_datasets/nature_12K.zip) dataset for our experiments](https://drive.google.com/file/d/1uRKU4as2NlS9i8sdLRS1e326vQRdhvfw/view).
+- We use [Aksharantar dataset](https://storage.googleapis.com/wandb_datasets/nature_12K.zip) dataset for our experiments](https://drive.google.com/file/d/1uRKU4as2NlS9i8sdLRS1e326vQRdhvfw/view).
 
 # Vanilla Seq2Seq
 ### Hyperparameters used in experiments for Vanilla Seq2Seq
